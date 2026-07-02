@@ -2,6 +2,8 @@
 
 This repository is for applied computational finance, quant research, quant development, backtesting, ML/DL/RL strategy research, and execution-system design.
 
+Use the local Codex skill `quant-research-lab` for quant finance, quant development, alpha research, mathematical learning, ML/DL/RL strategy design, paper-to-experiment planning, backtest validation, and execution-system research.
+
 Codex must ask for human approval before:
 - Using real broker credentials or API keys
 - Downloading large paid datasets

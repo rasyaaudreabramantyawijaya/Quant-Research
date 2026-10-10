@@ -12,10 +12,6 @@ Buka subfolder proyek yang ingin digunakan. Jalankan program atau buka proyek da
 
 Buka notebook di folder `quant-lab/notebooks/`. Baca README dan instruksi proyek sumber sebelum menjalankan riset.
 
-### Sumber yang belum tersedia
-
-`Quantitative` dan `Sentiment_Analysis` termasuk cakupan yang diminta, tetapi tidak dapat diakses di GitHub saat migrasi. Isinya belum dimasukkan dan dapat ditambahkan setelah salinan sumber tersedia.
-
 ## Riwayat dan migrasi
 
 - Riwayat default branch sumber tersedia dalam ancestry `main`.
